@@ -1,0 +1,7 @@
+inputs/*
+# Keep the .gitkeep file
+a file to track empty directories.
+!inputs/.gitkeep
+combined.csv
+output.csv
+.DS_Store
