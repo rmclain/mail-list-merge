@@ -1,5 +1,2 @@
 pandas
 pgeocode
-tqdm
-usaddress
-nameparser
